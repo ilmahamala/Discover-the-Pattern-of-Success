@@ -6,5 +6,6 @@ Tujuan dari proyek ini adalah menemukan formula sukses dengan menemukan pola yan
 - Psychometric profiles: mengidentifikasi kecenderungan kepribadian dan kemampuan kognitif, seperti papi_scores dan profiles_psych
 - Behavioral: melihat performa tahunan
 - Contextual factors: melihat dari organizational context dan latar belakang
-Hasil eksplorasi ini disajikan melalui visualisasi storytelling (misalnya heatmap, radar chart, correlation plot) agar dapat menjelaskan mengapa seseorang sukses, bukan hanya apa yang membedakan. Tahap ini menghasilkan output berupa Success Formula, yaitu struktur berbobot yang menjelaskan bagaimana kombinasi berbagai faktor menghasilkan performa tinggi. Formula ini bisa berupa logika berbasis aturan (rule-based logic) dan harus disertai justifikasi serta visual pendukung.
+  
+Hasil eksplorasi ini disajikan melalui visualisasi storytelling (seperti heatmap, radar chart, correlation plot), sehingga dapat menjelaskan faktor seseorang sukses. Tahap ini menghasilkan output berupa Success Formula, yaitu struktur berbobot yang menjelaskan bagaimana kombinasi berbagai faktor menghasilkan performa tinggi. Formula ini berupa logika berbasis aturan (rule-based logic).
 
